@@ -1,6 +1,6 @@
-package pt.ulusofona.cm.kotlin.challenge.models
+package pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.models
 
-import pt.ulusofona.cm.kotlin.challenge.interfaces.Ligavel
+import pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.interfaces.Ligavel
 import java.text.SimpleDateFormat
 
 class Carro(identificador: String, private var motor: Motor) : Veiculo(identificador), Ligavel{

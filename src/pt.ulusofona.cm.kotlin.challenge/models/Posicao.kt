@@ -1,6 +1,6 @@
-package pt.ulusofona.cm.kotlin.challenge.models
+package pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.models
 
-import pt.ulusofona.cm.kotlin.challenge.exceptions.AlterarPosicaoException
+import pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.exceptions.AlterarPosicaoException
 
 class Posicao(var x: Int, var y: Int) {
 

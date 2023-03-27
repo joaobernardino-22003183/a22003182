@@ -1,8 +1,8 @@
-package pt.ulusofona.cm.kotlin.challenge.models
+package pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.models
 
-import pt.ulusofona.cm.kotlin.challenge.exceptions.VeiculoDesligadoException
-import pt.ulusofona.cm.kotlin.challenge.exceptions.VeiculoLigadoException
-import pt.ulusofona.cm.kotlin.challenge.interfaces.Ligavel
+import pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.exceptions.VeiculoDesligadoException
+import pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.exceptions.VeiculoLigadoException
+import pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.interfaces.Ligavel
 
 class Motor(private val cavalos: Int, private val cilindrada: Int): Ligavel {
 
