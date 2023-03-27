@@ -8,7 +8,7 @@ import java.util.Date
 * Carro -> identificador, posicao, dataAquisicao, motor
 * Bicicleta -> identificador, posicao, dataAquisicao
 * Motor -> cavalos, cilindrada
-* Posicao -> X, Y
+* Posicao -> x,y
 * */
 
 fun main() {
