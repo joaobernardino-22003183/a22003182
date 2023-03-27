@@ -1,4 +1,4 @@
-package pt.ulusofona.cm.kotlin.challenge
+package pt.ulusofona.cm.kotlin.challenge.challenge
 
 import pt.ulusofona.cm.kotlin.challenge.models.*
 import java.util.Date
