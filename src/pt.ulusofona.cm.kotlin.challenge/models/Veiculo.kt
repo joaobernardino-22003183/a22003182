@@ -8,6 +8,7 @@ abstract class Veiculo(var identificador: String) : Movimentavel {
     var posicao : Posicao = Posicao(0,0)
     var dataDeAquisicao = Date()
 
+
     override fun moverPara(x: Int, y: Int) {
         posicao.x = x
         posicao.y = y
